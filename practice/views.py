@@ -6,7 +6,6 @@ import requests
 from django.http import JsonResponse
 
 
-
 #Create view here
 
 def home(request):
